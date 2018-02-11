@@ -103,7 +103,20 @@
     font-size: 2.5em;
 }
 
-/*Banner Animations*/
+
+/*Banner Mission*/
+.mission-state {
+    margin-top: 2em;
+}
+
+.mission-state h2 {
+    color: #27576c;
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+
 
 /*-----------------Banner END-----------------*/
 
